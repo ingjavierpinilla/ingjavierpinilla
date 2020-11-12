@@ -1,6 +1,6 @@
 ### Hi there, Javier here 👋
 
-## I am a mechatronic engineer, from all I learned what I enjoy most is programming 🤣
+## I am a mechatronic engineer, from all I learned what I enjoy most is programming 
 
 - 🧮 I just finished a data science course
 - 🤖 I’m currently learning everything 
@@ -15,8 +15,8 @@
 ### Connect with me:
 
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="ingjavierpinilla | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="ingjavierpinilla | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
