@@ -9,7 +9,7 @@
 - 🥨 Ich kann nicht nur Englisch und Spanisch sondern auch Deutsch 
 - I have worked in robotics, sensors, data science, artificial intelligence and some web development; I think I adapt quickly 😁
 
-
+---
 
 
 ### Connect with me:
@@ -33,8 +33,17 @@
 <img align="left" width="26px" alt="dash" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dash.svg" />
 
 <br />
+<br />
 
+---
 
+<details>
+  <summary>:zap: GitHub Stats</summary>
+  
+  [![Javier's github stats](https://github-readme-stats.vercel.app/api?username=ingjavierpinilla)](https://github.com/ingjavierpinilla/github-readme-stats)
+  <br />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ingjavierpinilla&layout=compact)](https://github.com/ingjavierpinilla/github-readme-stats)
+</details>
 
 [instagram]: https://www.instagram.com/javierm_p/
 [linkedin]: https://www.linkedin.com/in/ingjavierpinilla/
