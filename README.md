@@ -29,9 +29,9 @@
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-[<img align="left" alt="OpenCV" width="26px" alt="opencv" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/opencv_icon_132129.png" />][opencv]
-[<img align="left" alt="ROS" width="40px" alt="ros" src="https://costaricamakers.com/wp-content/uploads/2020/01/ros-logo.png" />][ros]
-[<img align="left" width="26px" alt="dash" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dash.svg" />][dash]
+<img align="left" alt="OpenCV" width="26px" alt="opencv" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/opencv_icon_132129.png" />
+<img align="left" alt="ROS" width="40px" alt="ros" src="https://costaricamakers.com/wp-content/uploads/2020/01/ros-logo.png" />]
+<img align="left" width="26px" alt="dash" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/dash.svg" />
 
 <br />
 
@@ -39,6 +39,4 @@
 
 [instagram]: https://www.instagram.com/javierm_p/
 [linkedin]: https://www.linkedin.com/in/ingjavierpinilla/
-[ros]: https://www.ros.org
-[opencv]: https://opencv.org
-[dash]: https://plotly.com/dash/
+
