@@ -3,7 +3,7 @@
 ## I am a mechatronic engineer, from all I learned what I enjoy most is programming 
 
 - 🧮 I just finished a undergraduate degree in mechatronics
-- 🤖 I’m currently learning everything 
+- 🤖 I’m currently learning React 
 - 🥅 2020 Goals: Improve my github profile and migrate all my projects here
 - ⚡ Fun fact: I love sport and compete in Olympic lifting 🏋️
 - 🥨 Ich kann nicht nur Englisch und Spanisch sondern auch Deutsch 
