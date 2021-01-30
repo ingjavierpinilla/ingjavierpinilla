@@ -4,7 +4,7 @@
 
 - 🧮 I just finished a undergraduate degree in mechatronics
 - 🤖 I’m currently learning React 
-- 🥅 2020 Goals: Improve my github profile and migrate all my projects here
+- 🥅 2021 Goals: Improve my github profile and migrate all my projects here
 - ⚡ Fun fact: I love sport and compete in Olympic lifting 🏋️
 - 🥨 Ich kann nicht nur Englisch und Spanisch sondern auch Deutsch 
 - I have worked in robotics, sensors, data science, artificial intelligence and some web development; I think I adapt quickly 😁
