@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Improve my github profile and migrate all my projects here
 - ⚡ Fun fact: I love sport and compete in Olympic lifting 🏋️
 - 🥨 Ich kann nicht nur Englisch und Spanisch sondern auch Deutsch 
-- I have worked in robotics, sensors, data science, artificial intelligence and some web development; I think I adapt quickly 😁
+- I have worked in robotics, data acquisition, data science, artificial intelligence and web development; I think I adapt quickly 😁
 
 ---
 
