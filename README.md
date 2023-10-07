@@ -2,10 +2,7 @@
 
 ## I am a mechatronic engineer, from all I learned what I enjoy most is programming 
 
-- 5x AWS certified
-- ⚡ Fun fact: I love sport and compete in Olympic lifting 🏋️
-- 🥨 Ich kann nicht nur Englisch und Spanisch sondern auch Deutsch 
-- I have worked in robotics, data acquisition, data science, artificial intelligence and web development; I think I adapt quickly 😁
+- 7x AWS + Google Cloud + Terraform certified.
 
 ---
 
